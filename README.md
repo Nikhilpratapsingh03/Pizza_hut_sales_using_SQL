@@ -5,4 +5,5 @@
 
 ![Screenshot 2024-07-19 122232](https://github.com/user-attachments/assets/7da2b3ab-3b54-43ca-8fec-4798e5bd1ad5)
 
+For more images click on ths link--
 [Pizza hut sales project using SQL.pdf](https://github.com/user-attachments/files/16303192/Pizza.hut.sales.project.using.SQL.pdf)
